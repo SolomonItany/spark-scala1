@@ -1,5 +1,5 @@
 
-
+package scalatest;
 import org.apache.spark.sql.SparkSession
 
 object MySparkApp {
